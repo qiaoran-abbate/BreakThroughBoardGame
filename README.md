@@ -13,3 +13,5 @@ This is a java board game designed to practice Java Swing libraries. The game Br
     <img src="https://github.com/qiaoranli/BreakThroughBoardGame/blob/master/doc_images/YoutubeVideo.png" alt="BreakThrough Board Game Demo" align="middle" width="700" >
   </a>
 </p>
+
+Thanks for visiting my github, and hope you enoyed the game :) 
